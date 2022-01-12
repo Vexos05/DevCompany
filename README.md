@@ -1,2 +1,0 @@
-# devcompanyproject
- tak
