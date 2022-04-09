@@ -6,8 +6,7 @@ Website adrres **https://vexos05.github.io/DevCompany/**
 
 
 How the page look like at first update 
-[PageLook](./img/Dev_company_look.png)
-
+[pagelook](/img/Dev_company_look.png)
 
 
 
